@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The World of Text Formatting</title>
+</head>
+
+<body>
+
+    <h1>The World of Text Formatting</h1>
+    <p>Let's discover different ways to format text using HTML tags.</p>
+
+    <h2>Bold and Strong Text</h2>
+    <p>The <b>blue whale</b> is the largest animal on Earth.</p>
+    <p>Always <strong>follow traffic rules</strong> while crossing the road.</p>
+
+    <h2>Italic and Emphasized Text</h2>
+    <p>The scientific name of a tiger is <i>Panthera tigris</i>.</p>
+    <p>Learning something new every day is <em>very important</em>.</p>
+
+    <h2>Highlighted and Small Text</h2>
+    <p>Remember to <mark>save your work regularly</mark>.</p>
+    <p>The Earth is 4.54 billion years old. <small>(approximately)</small></p>
+
+    <h2>Deleted and Inserted Text</h2>
+    <p>Original price: <del>$100</del> New price: <ins>$75</ins></p>
+    <p>My favourite colour is <del>red</del> <ins>blue</ins>.</p>
+
+    <h2>Superscript and Subscript</h2>
+    <p>The square of 5 is written as 5<sup>2</sup> = 25.</p>
+    <p>The chemical formula for carbon dioxide is CO<sub>2</sub>.</p>
+    <p>Volume of a cube is calculated using side<sup>3</sup>.</p>
+
+</body>
+
+</html>
