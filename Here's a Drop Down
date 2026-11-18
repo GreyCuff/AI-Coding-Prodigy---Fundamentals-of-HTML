@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Holiday Trip Planner</title>
+</head>
+
+<body>
+
+    <h1>Plan Your Dream Holiday!</h1>
+    <p>Select your preferences to plan an exciting vacation.</p>
+
+    <form>
+
+        <fieldset>
+            <legend>Traveller Details</legend>
+
+            <label>Full Name:</label><br>
+            <input type="text" name="fullname" placeholder="Enter your name">
+
+            <br><br>
+
+            <label>Choose Your Destination:</label><br>
+
+            <select name="destination">
+                <option value="">Select a destination</option>
+                <option value="india">India</option>
+                <option value="japan">Japan</option>
+                <option value="france">France</option>
+                <option value="australia">Australia</option>
+                <option value="italy">Italy</option>
+            </select>
+
+            <br><br>
+
+            <label>Preferred Transport:</label><br>
+
+            <select name="transport">
+                <option value="flight">Aeroplane</option>
+                <option value="train">Train</option>
+                <option value="bus">Bus</option>
+                <option value="car">Car</option>
+            </select>
+
+            <br><br>
+
+            <label>Choose Your Accommodation:</label><br>
+
+            <select name="accommodation">
+                <option value="hotel">Hotel</option>
+                <option value="resort">Resort</option>
+                <option value="villa">Villa</option>
+                <option value="camping">Camping</option>
+            </select>
+
+            <br><br>
+
+            <label>Travel Date:</label><br>
+            <input type="date" name="traveldate">
+
+        </fieldset>
+
+        <br>
+
+        <input type="submit" value="Plan My Holiday">
+        <input type="reset" value="Reset Form">
+
+    </form>
+
+</body>
+
+</html>
