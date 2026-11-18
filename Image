@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wildlife Adventure</title>
+</head>
+
+<body>
+
+    <center>
+
+        <h1>Welcome to the Wildlife Adventure!</h1>
+
+        <p>Let's explore some amazing animals from the jungle.</p>
+
+        <h2>Meet the King of the Jungle</h2>
+
+        <img src="lion.png" alt="A powerful lion" width="350" height="350">
+
+        <p>Lions are strong animals that live together in groups called prides.</p>
+
+        <h2>The Gentle Giant</h2>
+
+        <img src="elephant.png" alt="A beautiful elephant" width="350" height="350">
+
+        <p>Elephants are the largest living land animals.</p>
+
+        <h2>The Fastest Runner</h2>
+
+        <img src="cheetah.png" alt="A running cheetah" width="350" height="350">
+
+        <p>Cheetahs are the fastest land animals in the world.</p>
+
+        <h2>Adventure Complete!</h2>
+
+        <p>We used HTML image tags to create an exciting wildlife gallery.</p>
+
+    </center>
+
+</body>
+
+</html>
