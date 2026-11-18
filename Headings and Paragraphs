@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore the Universe</title>
+</head>
+
+<body>
+
+    <h1>Explore the Wonderful Universe</h1>
+    <p>Welcome to our space adventure! Discover amazing things about planets, stars, and galaxies.</p>
+
+    <h2>Our Solar System</h2>
+    <p>Our solar system contains eight planets that revolve around the Sun.</p>
+
+    <h3>The Red Planet</h3>
+    <p>Mars is called the Red Planet because its surface contains iron oxide.</p>
+
+    <h4>The Largest Planet</h4>
+    <p>Jupiter is the largest planet in our solar system and has a giant storm called the Great Red Spot.</p>
+
+    <h5>Interesting Space Fact</h5>
+    <p>Sound cannot travel through the vacuum of space.</p>
+
+    <h6>Keep Exploring</h6>
+    <p>There is always something new and exciting to discover beyond our planet.</p>
+
+</body>
+
+</html>
