@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Exploration Guide</title>
+</head>
+
+<body>
+
+    <h1>Space Exploration Guide</h1>
+    <p>Discover the exciting world of space through different types of HTML lists.</p>
+
+    <h2>Steps to Become an Astronaut</h2>
+
+    <!-- Ordered List -->
+    <ol>
+        <li>Study mathematics and science</li>
+        <li>Maintain physical fitness</li>
+        <li>Complete professional training</li>
+        <li>Learn how spacecraft operate</li>
+        <li>Prepare for a space mission</li>
+    </ol>
+
+    <h2>Amazing Objects in Space</h2>
+
+    <!-- Unordered List -->
+    <ul>
+        <li>Saturn - Famous for its beautiful rings</li>
+        <li>Mars - Known as the Red Planet</li>
+        <li>Jupiter - The largest planet</li>
+        <li>Moon - Earth's natural satellite</li>
+    </ul>
+
+    <h2>Important Space Terms</h2>
+
+    <!-- Description List -->
+    <dl>
+        <dt>Galaxy</dt>
+        <dd>A massive collection of stars, gas, and dust.</dd>
+
+        <dt>Asteroid</dt>
+        <dd>A rocky object that travels around the Sun.</dd>
+
+        <dt>Satellite</dt>
+        <dd>An object that revolves around a planet.</dd>
+
+        <dt>Gravity</dt>
+        <dd>A force that attracts objects towards each other.</dd>
+    </dl>
+
+</body>
+
+</html>
