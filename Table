@@ -1,1 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Sports Championship</title>
+</head>
+
+<body>
+
+    <h1>School Sports Championship</h1>
+    <p>Explore the performance of students in different sporting events.</p>
+
+    <h2>Sports Competition Results</h2>
+
+    <table border="3">
+        <tr>
+            <th>Student Name</th>
+            <th>Grade</th>
+            <th>Sport</th>
+            <th>Medals</th>
+        </tr>
+
+        <tr>
+            <td>Alex</td>
+            <td>8</td>
+            <td>Swimming</td>
+            <td>3</td>
+        </tr>
+
+        <tr>
+            <td>Emma</td>
+            <td>7</td>
+            <td>Gymnastics</td>
+            <td>4</td>
+        </tr>
+
+        <tr>
+            <td>Daniel</td>
+            <td>9</td>
+            <td>Football</td>
+            <td>2</td>
+        </tr>
+
+        <tr>
+            <td>Sophia</td>
+            <td>8</td>
+            <td>Badminton</td>
+            <td>5</td>
+        </tr>
+
+        <tr>
+            <td>Ryan</td>
+            <td>10</td>
+            <td>Basketball</td>
+            <td>3</td>
+        </tr>
+    </table>
+
+    <h2>Upcoming Sports Events</h2>
+
+    <table border="3">
+        <tr>
+            <th>Day</th>
+            <th>Event</th>
+            <th>Location</th>
+        </tr>
+
+        <tr>
+            <td>Monday</td>
+            <td>Football</td>
+            <td>School Playground</td>
+        </tr>
+
+        <tr>
+            <td>Tuesday</td>
+            <td>Swimming</td>
+            <td>Swimming Pool</td>
+        </tr>
+
+        <tr>
+            <td>Wednesday</td>
+            <td>Basketball</td>
+            <td>Indoor Court</td>
+        </tr>
+
+        <tr>
+            <td>Thursday</td>
+            <td>Badminton</td>
+            <td>Sports Hall</td>
+        </tr>
+
+        <tr>
+            <td>Friday</td>
+            <td>Running Race</td>
+            <td>Athletics Track</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
