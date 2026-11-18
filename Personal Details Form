@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Registration Form</title>
+</head>
+
+<body>
+
+    <h1>Student Registration Form</h1>
+    <p>Complete the form below to register for our learning programme.</p>
+
+    <hr>
+
+    <form>
+
+        <fieldset>
+            <legend>Personal Information</legend>
+
+            <label>Full Name</label><br>
+            <input type="text" name="fullname" placeholder="Enter your name"><br><br>
+
+            <label>Email Address</label><br>
+            <input type="email" name="email" placeholder="Enter your email"><br><br>
+
+            <label>Create Password</label><br>
+            <input type="password" name="password" placeholder="Enter your password"><br><br>
+
+            <label>Date of Birth</label><br>
+            <input type="date" name="dob"><br><br>
+
+            <label>Gender</label><br>
+            <input type="radio" name="gender" value="male"> Male<br>
+            <input type="radio" name="gender" value="female"> Female<br>
+            <input type="radio" name="gender" value="other"> Other<br>
+
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+            <legend>Academic Information</legend>
+
+            <label>Select Your Grade</label><br>
+
+            <select name="grade">
+                <option value="">Select Grade</option>
+                <option value="6">Grade 6</option>
+                <option value="7">Grade 7</option>
+                <option value="8">Grade 8</option>
+                <option value="9">Grade 9</option>
+                <option value="10">Grade 10</option>
+            </select>
+
+            <br><br>
+
+            <label>Favourite Subjects</label><br>
+
+            <input type="checkbox" name="subject" value="coding"> Coding<br>
+            <input type="checkbox" name="subject" value="maths"> Mathematics<br>
+            <input type="checkbox" name="subject" value="science"> Science<br>
+            <input type="checkbox" name="subject" value="english"> English<br><br>
+
+            <label>Tell Us About Yourself</label><br>
+
+            <textarea name="introduction" rows="4" cols="40"
+                placeholder="Write a short introduction"></textarea>
+
+        </fieldset>
+
+        <br>
+
+        <input type="submit" value="Register Now">
+        <input type="reset" value="Clear Form">
+
+    </form>
+
+</body>
+
+</html>
