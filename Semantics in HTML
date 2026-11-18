@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthy Heroes - Fitness Guide</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Healthy Heroes - Your Fitness Guide</h1>
+
+        <nav>
+            <a href="#fitness">Fitness</a> |
+            <a href="#tips">Healthy Habits</a> |
+            <a href="#media">Fitness Video</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <section id="fitness">
+
+            <article>
+                <h2>Stay Active and Strong</h2>
+
+                <p>Regular exercise helps us build stronger muscles,
+                improve our energy, and stay happy.</p>
+
+                <p>Activities like cycling, running, dancing, and
+                swimming are excellent ways to stay active.</p>
+            </article>
+
+            <figure>
+                <img src="fitness.jpg"
+                     alt="Children enjoying outdoor activities"
+                     width="500"
+                     height="350">
+
+                <figcaption>Exercise makes our bodies stronger and healthier!</figcaption>
+            </figure>
+
+        </section>
+
+        <aside id="tips">
+
+            <h3>Daily Healthy Habits</h3>
+
+            <ul>
+                <li>Eat fresh fruits and vegetables.</li>
+                <li>Drink enough water throughout the day.</li>
+                <li>Get plenty of sleep every night.</li>
+                <li>Exercise for 60 minutes every day.</li>
+                <li>Spend time playing outdoors.</li>
+            </ul>
+
+        </aside>
+
+        <section id="media">
+
+            <h2>Watch and Learn About Fitness</h2>
+
+            <iframe
+                src="https://www.youtube.com/embed/KrIPt0fi9vk"
+                width="650"
+                height="350"
+                title="Healthy Lifestyle Video"
+                allowfullscreen>
+            </iframe>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Copyright &copy; 2026 Healthy Heroes | Created by a Young Web Developer.</p>
+    </footer>
+
+</body>
+
+</html>
