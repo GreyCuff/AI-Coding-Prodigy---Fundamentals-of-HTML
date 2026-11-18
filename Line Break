@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Daily Adventure</title>
+</head>
+
+<body>
+
+    <h1>My Daily Routine</h1>
+
+    <p>
+        Wake up at 7 AM.<br>
+        Brush my teeth and get ready.<br>
+        Eat a delicious breakfast.<br>
+        Go to school and meet my friends.<br>
+        Complete my homework.
+    </p>
+
+    <h2>My Favourite Poem</h2>
+
+    <p>
+        The stars are shining bright,<br>
+        The moon lights up the night,<br>
+        Dreams are waiting far away,<br>
+        Tomorrow brings a brand-new day.
+    </p>
+
+    <h2>My Contact Details</h2>
+
+    <p>
+        Name: Alex Morgan<br>
+        City: London<br>
+        Country: United Kingdom
+    </p>
+
+    <!-- The br tag starts a new line without creating a new paragraph -->
+
+</body>
+
+</html>
