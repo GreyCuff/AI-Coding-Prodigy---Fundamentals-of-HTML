@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Adventure World</title>
+</head>
+
+<body>
+
+    <!-- Main heading of the webpage -->
+    <h1>Welcome to Adventure World!</h1>
+
+    <!-- Introduction section -->
+    <p>Get ready to explore mysterious places and hidden treasures.</p>
+
+    <!-- First adventure destination -->
+    <h2>The Magical Forest</h2>
+    <p>A beautiful forest filled with glowing trees and talking animals.</p>
+
+    <!-- Second adventure destination -->
+    <h2>The Lost Island</h2>
+    <p>A secret island where ancient treasures are hidden.</p>
+
+    <!--
+        This is a multi-line comment.
+        Comments help developers understand the code.
+        They are not displayed on the webpage.
+    -->
+
+    <!-- Closing message -->
+    <h2>Adventure Awaits!</h2>
+    <p>Be brave, stay curious, and keep exploring.</p>
+
+</body>
+
+</html>
