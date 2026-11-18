@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Summer Camp Registration</title>
+</head>
+
+<body>
+
+    <h1>Summer Camp Registration Form</h1>
+    <p>Fill in your details to join our exciting summer camp!</p>
+
+    <form>
+
+        <!-- Personal Details Group -->
+        <fieldset>
+            <legend>Personal Details</legend>
+
+            <label>Full Name:</label><br>
+            <input type="text" placeholder="Enter your name"><br><br>
+
+            <label>Age:</label><br>
+            <input type="number" placeholder="Enter your age"><br><br>
+
+            <label>Email Address:</label><br>
+            <input type="email" placeholder="Enter your email"><br><br>
+
+            <label>Date of Birth:</label><br>
+            <input type="date">
+
+        </fieldset>
+
+        <br>
+
+        <!-- Activity Preferences Group -->
+        <fieldset>
+            <legend>Activity Preferences</legend>
+
+            <label>Select Your Favourite Activity:</label><br>
+
+            <input type="radio" name="activity" value="Swimming"> Swimming<br>
+            <input type="radio" name="activity" value="Painting"> Painting<br>
+            <input type="radio" name="activity" value="Coding"> Coding<br>
+            <input type="radio" name="activity" value="Football"> Football<br><br>
+
+            <label>Preferred Camp Session:</label><br>
+
+            <select name="session">
+                <option>Morning Session</option>
+                <option>Afternoon Session</option>
+                <option>Evening Session</option>
+            </select>
+
+        </fieldset>
+
+        <br>
+
+        <!-- Additional Information Group -->
+        <fieldset>
+            <legend>Additional Information</legend>
+
+            <label>Available Days:</label><br>
+
+            <input type="checkbox" name="day" value="Monday"> Monday<br>
+            <input type="checkbox" name="day" value="Wednesday"> Wednesday<br>
+            <input type="checkbox" name="day" value="Friday"> Friday<br><br>
+
+            <label>Special Requirements:</label><br>
+
+            <textarea rows="4" cols="35"
+                placeholder="Enter any additional information"></textarea>
+
+        </fieldset>
+
+        <br>
+
+        <input type="submit" value="Join Summer Camp">
+        <input type="reset" value="Clear Details">
+
+    </form>
+
+</body>
+
+</html>
