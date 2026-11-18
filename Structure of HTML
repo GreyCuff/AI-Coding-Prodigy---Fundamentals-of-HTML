@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Agent Phoenix - Secret Mission</title>
+</head>
+
+<body>
+
+    <!-- Secret agent introduction -->
+    <h1>Secret Agent Profile</h1>
+
+    <h2>Code Name: Phoenix</h2>
+
+    <!-- Agent's responsibility -->
+    <h2>Secret Mission</h2>
+    <p>Protect the city from mysterious alien robots.</p>
+
+    <!-- Agent's unique ability -->
+    <h2>Superpower</h2>
+    <p>I can teleport anywhere by snapping my fingers.</p>
+
+    <!-- Agent's equipment -->
+    <h2>Special Gadget</h2>
+    <p>A magical watch that can stop time.</p>
+
+</body>
+
+</html>
