@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favourite Websites</title>
+</head>
+
+<body>
+
+    <h1>Discover the Digital World</h1>
+    <p>Explore these interesting websites by clicking on the hyperlinks below.</p>
+
+    <h2>Education and Learning</h2>
+
+    <p>Learn mathematics and science at 
+        <a href="https://www.khanacademy.org/">Khan Academy</a>.
+    </p>
+
+    <p>Improve your coding skills with 
+        <a href="https://www.w3schools.com/">W3Schools</a>.
+    </p>
+
+    <h2>Entertainment and Creativity</h2>
+
+    <p>Watch educational and entertaining videos on 
+        <a href="https://www.youtube.com/">YouTube</a>.
+    </p>
+
+    <p>Create exciting games and animations using 
+        <a href="https://scratch.mit.edu/">Scratch</a>.
+    </p>
+
+    <h2>Explore and Discover</h2>
+
+    <p>Explore different countries and famous places using 
+        <a href="https://earth.google.com/">Google Earth</a>.
+    </p>
+
+    <p>Discover interesting articles on 
+        <a href="https://www.britannica.com/">Britannica</a>.
+    </p>
+
+    <h2>Happy Exploring!</h2>
+    <p>Hyperlinks help us navigate from one webpage to another.</p>
+
+</body>
+
+</html>
