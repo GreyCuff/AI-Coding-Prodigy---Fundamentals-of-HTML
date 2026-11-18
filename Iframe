@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adventure Gaming World</title>
+</head>
+
+<body>
+
+    <center>
+
+        <h1>Welcome to Adventure Gaming World!</h1>
+
+        <h2>Ready for an Exciting Gaming Challenge?</h2>
+
+        <p>
+            Test your gaming skills, overcome obstacles, and enjoy
+            playing directly inside this webpage.
+        </p>
+
+        <iframe
+            src="https://scratch.mit.edu/projects/60917032/embed"
+            title="Scratch Adventure Game"
+            allowtransparency="true"
+            width="600"
+            height="450"
+            frameborder="0"
+            scrolling="no"
+            allowfullscreen>
+        </iframe>
+
+        <h2>Let the Adventure Begin!</h2>
+
+        <p>
+            We used the iframe tag to embed a Scratch game
+            into our HTML webpage without opening another tab.
+        </p>
+
+    </center>
+
+</body>
+
+</html>
