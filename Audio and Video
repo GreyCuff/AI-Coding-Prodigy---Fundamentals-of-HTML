@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nature's Music Festival</title>
+</head>
+
+<body>
+
+    <center>
+
+        <h1>Welcome to Nature's Music Festival!</h1>
+
+        <h2>Listen to the Sounds of Nature</h2>
+
+        <p>Enjoy the peaceful sounds of birds singing and water flowing through the forest.</p>
+
+        <audio controls loop>
+            <source src="nature.mp3" type="audio/mpeg">
+            Your browser does not support audio playback.
+        </audio>
+
+        <br><br>
+
+        <h2>Explore the Beautiful Forest</h2>
+
+        <p>Watch the amazing wildlife and beautiful scenery of a magical forest.</p>
+
+        <video width="550" height="350" controls poster="forest.png" loop>
+            <source src="wildlife.mp4" type="video/mp4">
+            Your browser does not support video playback.
+        </video>
+
+        <h2>Enjoy the Natural World!</h2>
+
+        <p>We used HTML audio and video tags to create an entertaining multimedia webpage.</p>
+
+    </center>
+
+</body>
+
+</html>
